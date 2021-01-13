@@ -1,68 +1,80 @@
 {
-"results":[
-{"userId": 1,
-"id": 1,
-"title": "Hudkeshwar, pipla",
- "coordinate": {
-        latitude: 28.3915637,
-        longitude: -16.6291304,
+   "results":[
+      {
+         "userId":1,
+         "id":1,
+         "title":"Hudkeshwar, pipla",
+         "coordinate":{
+            "latitude":28.3915637,
+            "longitude":-16.6291304
+         },
+         "completed":false
       },
-"completed": false},
-
-{"userId": 1,
-"id": 2,
-"title": "Malginagar, Ashirwad nagar",
- "coordinate": {
-        latitude: 28.4815637,
-        longitude: -16.2291304,
+      {
+         "userId":1,
+         "id":2,
+         "title":"Malginagar, Ashirwad nagar",
+         "coordinate":{
+            "latitude":28.4815637,
+            "longitude":-16.2291304
+         },
+         "completed":false
       },
-"completed": false},
-
-{"userId": 1,
-"id": 3,
-"title": "tajbag, nadanvan",
-  "coordinate": {
-        latitude: 28.2515637,
-        longitude: -16.3991304,
+      {
+         "userId":1,
+         "id":3,
+         "title":"tajbag, nadanvan",
+         "coordinate":{
+            "latitude":28.2515637,
+            "longitude":-16.3991304
+         },
+         "completed":false
       },
-"completed": false},
-
-{"userId": 1,
-"id": 4,
-"title": "darampeth, sitaburdi",
-  "coordinate": {
-        latitude: 28.4815637,
-        longitude: -16.2991304,
+      {
+         "userId":1,
+         "id":4,
+         "title":"darampeth, sitaburdi",
+         "coordinate":{
+            "latitude":28.4815637,
+            "longitude":-16.2991304
+         },
+         "completed":true
       },
-"completed": true},
-
-{"userId": 1,
-"id": 5,
-"title": "kharbi, pardi",
- 
-"completed": false},
-
-{"userId": 1,
-"id": 6,
-"title": "telephone-ex, chapru nagar",
-"completed": false},
-
-{"userId": 1,
-"id": 7,
-"title": "shivaji sq, manish nagar",
-"completed": false},
-
-{"userId": 1,"id": 8,
-"title": "mahal, itwari",
-"completed": true},
-
-{"userId": 1,
-"id": 9,
-"title": "besa, pipla",
-"completed": false},
-
-{"userId": 1,
-"id": 10,
-"title": "kamthi, kalamna",
-"completed": true}
-]} 
+      {
+         "userId":1,
+         "id":5,
+         "title":"kharbi, pardi",
+         "completed":false
+      },
+      {
+         "userId":1,
+         "id":6,
+         "title":"telephone-ex, chapru nagar",
+         "completed":false
+      },
+      {
+         "userId":1,
+         "id":7,
+         "title":"shivaji sq, manish nagar",
+         "completed":false
+      },
+      {
+         "userId":1,
+         "id":8,
+         "title":"mahal, itwari",
+         "completed":true
+      },
+      {
+         "userId":1,
+         "id":9,
+         "title":"besa, pipla",
+         "completed":false
+      },
+      {
+         "userId":1,
+         "id":10,
+         "title":"kamthi, kalamna",
+         "completed":true
+      }
+   ]
+}
